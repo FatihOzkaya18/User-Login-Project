@@ -1,0 +1,16 @@
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\bin\Debug\Login Ekranı.exe.config
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\bin\Debug\Login Ekranı.exe
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\bin\Debug\Login Ekranı.pdb
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\obj\Debug\Login Ekranı.csprojResolveAssemblyReference.cache
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\obj\Debug\Login_Ekranı.Form1.resources
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\obj\Debug\Login_Ekranı.Properties.Resources.resources
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\obj\Debug\Login Ekranı.csproj.GenerateResource.Cache
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\obj\Debug\Login Ekranı.exe
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\obj\Debug\Login Ekranı.pdb
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\bin\Debug\EntityFramework.dll
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\bin\Debug\EntityFramework.xml
+c:\users\samsung 18\documents\visual studio 2015\Projects\Login Ekranı\Login Ekranı\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samsung 18\Desktop\Fatih Özkaya User Login Projesi\Login Ekranı\Login Ekranı\bin\Debug\Login Ekranı.exe.config
+C:\Users\Samsung 18\Desktop\Fatih Özkaya User Login Projesi\Login Ekranı\Login Ekranı\obj\Debug\Login Ekranı.exe
+C:\Users\Samsung 18\Desktop\Fatih Özkaya User Login Projesi\Login Ekranı\Login Ekranı\obj\Debug\Login Ekranı.pdb
